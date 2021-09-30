@@ -9,3 +9,11 @@ Notice !! 설계와 실습을 모두 수강하시는 분은 실습 과제제출�
 ## <u>**Notice**</u>
 --------------------------
 [2021_DS_Project2_ver1.pdf](https://github.com/myungoh/DS_Project_2_2021_2/files/7259289/2021_DS_Project2_ver1.pdf)
+
+
+### requirement
+##### 먼저 해당 github에 저장되어 있는 base 코드를 다운받는다.
+```
+$ sudo apt-get install git
+$ git clone https://github.com/myungoh/DS_Project_2_2021_2.git
+```
