@@ -14,6 +14,18 @@ Notice !! 설계와 실습을 모두 수강하시는 분은 실습 과제제출�
 ### requirement
 ##### 먼저 해당 github에 저장되어 있는 base 코드를 다운받는다.
 ```
-$ sudo apt-get install git
 $ git clone https://github.com/myungoh/DS_Project_2_2021_2.git
+$ cd DS_Project_2_2021_2
+```
+
+### how to compile this project
+```
+$ make
+```
+
+### how to run code
+##### ./(생성된 실행파일) 의 형식으로 생성된 run 실행파일을 실행한다.
+##### 실행하면 결과로 log.txt파일이 생성되면서 결과가 log.txt 에 저장된다. 
+```
+$ ./run
 ```
