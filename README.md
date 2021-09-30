@@ -32,6 +32,7 @@ $ ./run
 
 ### how to make tar.gz
 ##### 압축할 파일들은 하나의 디렉토리에 모아두고 tar 명령어를 실행한다.
+```
 $ ls
 AVLNode.h    AVLTree.h   BpTreeDataNode.h  BpTreeIndexNode.h  main.cpp  Manager.cpp  VaccinationData.h
 AVLTree.cpp  BpTree.cpp  BpTree.h          BpTreeNode.h       Makefile  Manager.h
@@ -50,6 +51,7 @@ Makefile
 Manager.cpp
 Manager.h
 VaccinationData.h
+```
 
 ### how to decompress tar.gz
 ##### tar.gz 파일이 잘 압축되었는지 확인하기 위해 실행한다.
