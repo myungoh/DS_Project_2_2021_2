@@ -8,12 +8,12 @@ Notice !! 설계와 실습을 모두 수강하시는 분은 실습 과제제출�
 
 ## <u>**Notice**</u>
 --------------------------
-[2021_DS_Project2_ver2.pdf](https://github.com/myungoh/DS_Project_2_2021_2/files/7274968/2021_DS_Project2_ver2.pdf)
+[2021_DS_Project2_ver3.pdf](https://github.com/myungoh/DS_Project_2_2021_2/files/7283149/2021_DS_Project2_ver3.pdf)
 
 ```
 9/30 - ver1 업로드
 10/04 - ver2 업로드(표 추가)
-
+10/05 - ver3 업로드(그림 수정, 채점 기준 추가, SEARCH_BP 기능 추가)
 ```
 
 ### requirement
