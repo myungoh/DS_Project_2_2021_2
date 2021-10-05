@@ -2,6 +2,7 @@
 #include "VaccinationData.h"
 #include "AVLTree.h"
 #include "BpTree.h"
+#include <algorithm>
 
 using namespace std;
 class Manager{
