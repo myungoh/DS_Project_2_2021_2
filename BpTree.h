@@ -24,6 +24,7 @@ public:
 	void		splitDataNode(BpTreeNode* pDataNode);
 	void		splitIndexNode(BpTreeNode* pIndexNode);
 	BpTreeNode*	searchDataNode(string n); //search VaccinationData node
+	void	SearchRange(string start, string end);
 	void	Print(); // print all 
 
 };

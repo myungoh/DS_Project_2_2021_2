@@ -9,18 +9,22 @@ void BpTree::splitDataNode(BpTreeNode* pDataNode) {
 
 }
 
-void BpTree::splitIndexNode(BpTreeNode* pIndexNode){
+void BpTree::splitIndexNode(BpTreeNode* pIndexNode) {
 
 }
 
-bool BpTree::exceedDataNode(BpTreeNode* pDataNode){
+bool BpTree::exceedDataNode(BpTreeNode* pDataNode) {
 
 }
 
-bool BpTree::exceedIndexNode(BpTreeNode* pIndexNode){
+bool BpTree::exceedIndexNode(BpTreeNode* pIndexNode) {
 
 }
 
-void BpTree::Print(){
+void BpTree::SearchRange(string start, string end) {
+
+}
+
+void BpTree::Print() {
 
 }

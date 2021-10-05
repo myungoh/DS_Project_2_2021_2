@@ -27,6 +27,10 @@ bool Manager::SEARCH_BP(string name) {
 
 }
 
+bool Manager::SEARCH_BP(string start, string end) {
+
+}
+
 bool Manager::SEARCH_AVL(string name) {
 
 }
