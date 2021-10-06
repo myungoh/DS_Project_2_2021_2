@@ -40,8 +40,8 @@ bool Compare(VaccinationData* vac1, VaccinationData* vac2) {
 }
 
 bool Manager::VPRINT(string type_) {
-	vector<VaccinationData*> v;
-	avl->GetVector(v);
+	vector<VaccinationData*> Print_vector;
+	avl->GetVector(Print_vector);
 
 	/* 
 	write code here
