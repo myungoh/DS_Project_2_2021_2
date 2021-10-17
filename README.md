@@ -16,6 +16,14 @@ Notice !! 설계와 실습을 모두 수강하시는 분은 실습 과제제출�
 10/06 - ver4 업로드(Print_Vector -> Print_vector 수정 / 오타 수정)
 ```
 
+## <u>**Skeleton code 수정**</u>
+--------------------------
+```
+10/17 - manager.h : vector<VaccinationData*> Print_vector 추가
+      - manager.cpp : avl->GetVector(Print_vector); 코드 Manager::VPRINT(string type_) --> Manager::VLOAD() 이동
+
+```
+
 ### requirement
 ##### 먼저 해당 github에 저장되어 있는 base 코드를 다운받는다.
 ```
