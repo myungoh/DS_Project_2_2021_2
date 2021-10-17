@@ -16,7 +16,7 @@ bool Manager::LOAD() {
 }
 
 bool Manager::VLOAD() {
-
+	avl->GetVector(Print_vector);
 }
 
 bool Manager::ADD() {
@@ -40,12 +40,7 @@ bool Compare(VaccinationData* vac1, VaccinationData* vac2) {
 }
 
 bool Manager::VPRINT(string type_) {
-	vector<VaccinationData*> Print_vector;
-	avl->GetVector(Print_vector);
 
-	/* 
-	write code here
-	*/
 }
 
 void Manager::printErrorCode(int n) {

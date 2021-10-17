@@ -9,6 +9,7 @@ class Manager{
 private:
 	AVLTree		*avl;	// AVL tree
 	BpTree		*bp;		// B+ tree
+	vector<VaccinationData*> Print_vector;
 
 public:
 	Manager(int bpOrder); //b+ node map size == bpOrder
