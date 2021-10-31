@@ -7,7 +7,7 @@ void AVLTree::GetVector(vector<VaccinationData*>& v){
 
 }
 
-VaccinationData* AVLTree::Search(int id){
+VaccinationData* AVLTree::Search(string name){
 
 }
 

@@ -16,7 +16,7 @@ public:
 	}
 	~AVLTree(){};
 	bool		Insert(VaccinationData* pVac);
-	VaccinationData*	Search(int id);
+	VaccinationData*	Search(string name);
 	void GetVector(vector<VaccinationData*>& v);
 };
 
