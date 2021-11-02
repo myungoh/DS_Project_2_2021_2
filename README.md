@@ -8,7 +8,7 @@ Notice !! 설계와 실습을 모두 수강하시는 분은 실습 과제제출�
 
 ## <u>**Notice**</u>
 --------------------------
-[2021_DS_Project2_ver6.pdf](https://github.com/myungoh/DS_Project_2_2021_2/files/7456994/2021_DS_Project2_ver6.pdf)
+[2021_DS_Project2_ver6.pdf](https://github.com/myungoh/DS_Project_2_2021_2/files/7457649/2021_DS_Project2_ver6.pdf)
 
 ```
 9/30 - ver1 업로드
