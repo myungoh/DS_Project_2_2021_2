@@ -17,7 +17,7 @@ Notice !! 설계와 실습을 모두 수강하시는 분은 실습 과제제출�
 10/06 - ver4 업로드(Print_Vector -> Print_vector 수정 / 오타 수정)
 10/31 - ver5 업로드(B+tree 대소문자 구별, SEARCH_BP 명령어 -> 대소문자 구별하여 검색)
 11/02 - ver6 업로드(동작 예시 수정)
-11/02 - ver7 업로드(Program implementation : SEARCH_AVL 예시 수정)
+11/03 - ver7 업로드(Program implementation : SEARCH_AVL 예시 수정)
 ```
 
 ## <u>**Skeleton code 수정**</u>
