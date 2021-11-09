@@ -8,7 +8,7 @@ Notice !! 설계와 실습을 모두 수강하시는 분은 실습 과제제출�
 
 ## <u>**Notice**</u>
 --------------------------
-[2021_DS_Project2_ver8.pdf](https://github.com/myungoh/DS_Project_2_2021_2/files/7472234/2021_DS_Project2_ver8.pdf)
+[2021_DS_Project2_ver9.pdf](https://github.com/myungoh/DS_Project_2_2021_2/files/7502919/2021_DS_Project2_ver9.pdf)
 
 ```
 9/30 - ver1 업로드
@@ -19,6 +19,7 @@ Notice !! 설계와 실습을 모두 수강하시는 분은 실습 과제제출�
 11/02 - ver6 업로드(동작 예시 수정)
 11/03 - ver7 업로드(Program implementation : SEARCH_AVL 예시 수정)
 11/04 - ver8 업로드(Program implementation : SEARCH_BP 설명 수정)
+11/09 - ver9 업로드(동작 예시 수정, p11~12 VPRINT A, VPRINT B )
 ```
 
 ## <u>**Skeleton code 수정**</u>
